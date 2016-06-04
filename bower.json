@@ -1,19 +1,20 @@
 {
-  "name": "pn-resource",
+  "name": "pn-ng-resource",
   "version": "1.0.0-rc1-final",
-  "description": "AngularJS Resource factory with create/update support",
+  "description": "PhantomNet AngularJS Resource factory with create/update support",
   "main": "./dist/pn-resource.js",
   "authors": [
     "Minh Nguyen <mnguyen284@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
+    "PhantomNet",
     "AngularJS"
   ],
   "moduleType": [
     "globals"
   ],
-  "homepage": "https://github.com/green-grass/pn-resource",
+  "homepage": "https://github.com/green-grass/pn-ng-resource",
   "ignore": [
     "**/.*",
     "node_modules",
