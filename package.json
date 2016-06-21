@@ -1,9 +1,9 @@
 {
   "name": "phantomnet-resource",
-  "description": "AngularJS Resource factory with create/update support",
+  "description": "PhantomNet AngularJS Resource factory with create/update support",
   "repository": {
     "type": "git",
-    "url": "https://github.com/green-grass/phantomnet-resource.git"
+    "url": "https://github.com/green-grass/pn-ng-resource.git"
   },
   "license": "MIT",
   "devDependencies": {
